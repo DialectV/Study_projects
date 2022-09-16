@@ -1,0 +1,13 @@
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.exe
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.deps.json
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.runtimeconfig.json
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.runtimeconfig.dev.json
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.dll
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\bin\Debug\netcoreapp3.1\FromTodayToAnotherDay.pdb
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.csprojAssemblyReference.cache
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.AssemblyInfoInputs.cache
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.AssemblyInfo.cs
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.csproj.CoreCompileInputs.cache
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.dll
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.pdb
+E:\GitRep\C#\Study_projects\FromTodayToAnotherDay\FromTodayToAnotherDay\obj\Debug\netcoreapp3.1\FromTodayToAnotherDay.genruntimeconfig.cache
